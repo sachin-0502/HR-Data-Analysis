@@ -54,6 +54,8 @@ This is a sample public dataset which consists 1470 rows and 39 columns in a csv
   5. Load the dashboard background in the dashboard canvas area.
   6. Make dashboard by activate floating option in the dashboard canvas so that every chart can be drag anywhere.
   7. Then drag all the created worksheet visuals in the dashboard canvas by doing necessary formatting.
-  8. Publish the report on tableau public. 
+  8. Place the visuals in right manner at right place.
+  9. Add interactive filter of the field "department" which will work as a slicer in the dashboard and in all the visuals the action filters will be auto working in the dashboard.
+  10. Publish the report on tableau public. 
 
    
